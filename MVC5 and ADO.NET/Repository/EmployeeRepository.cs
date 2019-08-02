@@ -99,9 +99,9 @@ namespace MVC5_and_ADO.NET.Repository
         public bool DeleteEmployee(int id)
         {
             Connection();
-            SqlCommand sqlCommand = new SqlCommand("dbo.DeleteEmployee", con);
+            SqlCommand sqlCommand = new SqlCommand("dbo.DeleteEmpById", con);
             sqlCommand.CommandType = CommandType.StoredProcedure;
-            sqlCommand.Parameters.AddWithValue("@ID", id);
+            sqlCommand.Parameters.AddWithValue("@EmpId", id);
             con.Open();
             int i = sqlCommand.ExecuteNonQuery();
             con.Close();

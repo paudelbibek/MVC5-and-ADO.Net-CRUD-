@@ -51,9 +51,21 @@ namespace MVC5_and_ADO.NET.Controllers
             if (ModelState.IsValid)
             {
                 ep.AddEmployee(employee);
+                ViewBag.Message = "Employee Added Successfully";
                 return RedirectToAction("GetAllEmployee");
             }
             return View();
+        }
+
+        public ActionResult DeleteEmployee(int id)
+        {
+           if (ep.DeleteEmployee(id))
+            {
+                ViewBag.Message = "Employee Deleted Successfully";
+            }
+            return RedirectToAction("GetAllEmployee");
+
+
         }
 
 
