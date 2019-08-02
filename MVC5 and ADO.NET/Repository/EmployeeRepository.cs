@@ -78,12 +78,15 @@ namespace MVC5_and_ADO.NET.Repository
 
         }
 
-        public bool UpdateEmployee(int id)
+        public bool UpdateEmployee(Employee emp)
         {
             Connection();
-            SqlCommand sqlCommand = new SqlCommand("dbo.UpdateEmployeeDetail", con);
+            SqlCommand sqlCommand = new SqlCommand("dbo.UpdateEmployeeDetails", con);
             sqlCommand.CommandType = CommandType.StoredProcedure;
-            sqlCommand.Parameters.AddWithValue("@ID", id);
+            sqlCommand.Parameters.AddWithValue("@EmpId", emp.EmployerID);
+            sqlCommand.Parameters.AddWithValue("@Name", emp.Name);
+            sqlCommand.Parameters.AddWithValue("@City", emp.City);
+            sqlCommand.Parameters.AddWithValue("@Address", emp.Address);
             con.Open();
             int i = sqlCommand.ExecuteNonQuery();
             con.Close();

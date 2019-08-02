@@ -1,4 +1,5 @@
-﻿using MVC5_and_ADO.NET.Repository;
+﻿using MVC5_and_ADO.NET.Models;
+using MVC5_and_ADO.NET.Repository;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,76 +23,20 @@ namespace MVC5_and_ADO.NET.Controllers
             return View(ep.GetAllEmployees());
         }
 
-        // GET: Employee/Details/5
-        public ActionResult Details(int id)
+        public ActionResult EditEmployee(int id)
         {
-            return View();
+            return View(ep.GetAllEmployees().Find(emp => emp.EmployerID == id));
         }
 
-        // GET: Employee/Create
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        // POST: Employee/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult EditEmployee(int id, Employee obj)
         {
-            try
-            {
-                // TODO: Add insert logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
+            ep.UpdateEmployee(obj);
+            return RedirectToAction("GetAllEmployee");
         }
 
-        // GET: Employee/Edit/5
-        public ActionResult Edit(int id)
-        {
-            return View();
-        }
 
-        // POST: Employee/Edit/5
-        [HttpPost]
-        public ActionResult Edit(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add update logic here
 
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
 
-        // GET: Employee/Delete/5
-        public ActionResult Delete(int id)
-        {
-            return View();
-        }
-
-        // POST: Employee/Delete/5
-        [HttpPost]
-        public ActionResult Delete(int id, FormCollection collection)
-        {
-            try
-            {
-                // TODO: Add delete logic here
-
-                return RedirectToAction("Index");
-            }
-            catch
-            {
-                return View();
-            }
-        }
     }
 }
