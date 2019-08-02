@@ -1,4 +1,5 @@
-﻿using MVC5_and_ADO.NET.Models;
+﻿
+using MVC5_and_ADO.NET.Models;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -25,10 +26,10 @@ namespace MVC5_and_ADO.NET.Repository
                 
             }
         }
-        public List<Employer> GetAllEmployees()
+        public List<Employee> GetAllEmployees()
         {
             Connection();
-            List<Employer> EmployeeList = new List<Employer>();
+            List<Employee> EmployeeList = new List<Employee>();
             SqlCommand cmd = new SqlCommand("dbo.GetEmployee", con);
             cmd.CommandType = System.Data.CommandType.StoredProcedure;
             SqlDataAdapter sd = new SqlDataAdapter(cmd);
@@ -42,7 +43,7 @@ namespace MVC5_and_ADO.NET.Repository
             {
             
             
-                EmployeeList.Add(new Employer
+                EmployeeList.Add(new Employee
                 {
                     EmployerID = Convert.ToInt32(row["ID"]),
                     Name = Convert.ToString(row["Name"]),
@@ -58,6 +59,56 @@ namespace MVC5_and_ADO.NET.Repository
 
 
         }
+        public bool AddEmployee(Employee employee)
+        {
+            Connection();
+            SqlCommand sqlCommand = new SqlCommand("dbo.AddNewEmployeeDetail", con);
+            sqlCommand.CommandType = CommandType.StoredProcedure;
+            sqlCommand.Parameters.AddWithValue("@Name", employee.Name);
+            sqlCommand.Parameters.AddWithValue("@Address", employee.Address);
+            sqlCommand.Parameters.AddWithValue("@City", employee.City);
+
+            con.Open();
+            int i = sqlCommand.ExecuteNonQuery();
+            con.Close();
+            if (i > 1)
+                return true;
+            else
+                return false;
+
+        }
+
+        public bool UpdateEmployee(int id)
+        {
+            Connection();
+            SqlCommand sqlCommand = new SqlCommand("dbo.UpdateEmployeeDetail", con);
+            sqlCommand.CommandType = CommandType.StoredProcedure;
+            sqlCommand.Parameters.AddWithValue("@ID", id);
+            con.Open();
+            int i = sqlCommand.ExecuteNonQuery();
+            con.Close();
+            if (i > 1)
+                return true;
+            else
+                return false;
+        }
+
+        public bool DeleteEmployee(int id)
+        {
+            Connection();
+            SqlCommand sqlCommand = new SqlCommand("dbo.DeleteEmployee", con);
+            sqlCommand.CommandType = CommandType.StoredProcedure;
+            sqlCommand.Parameters.AddWithValue("@ID", id);
+            con.Open();
+            int i = sqlCommand.ExecuteNonQuery();
+            con.Close();
+            if (i > 1)
+                return true;
+            else
+                return false;
+        }
+
+
 
     }
 }
