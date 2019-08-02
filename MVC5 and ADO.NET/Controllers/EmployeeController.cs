@@ -29,10 +29,31 @@ namespace MVC5_and_ADO.NET.Controllers
         }
 
         [HttpPost]
-        public ActionResult EditEmployee(int id, Employee obj)
+        public ActionResult EditEmployee(Employee obj)
         {
-            ep.UpdateEmployee(obj);
-            return RedirectToAction("GetAllEmployee");
+            if (ModelState.IsValid)
+            {
+                ep.UpdateEmployee(obj);
+                return RedirectToAction("GetAllEmployee");
+            }
+            else
+                return View();
+        }
+
+        public ActionResult AddEmployee()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult AddEmployee(Employee employee)
+        {
+            if (ModelState.IsValid)
+            {
+                ep.AddEmployee(employee);
+                return RedirectToAction("GetAllEmployee");
+            }
+            return View();
         }
 
 

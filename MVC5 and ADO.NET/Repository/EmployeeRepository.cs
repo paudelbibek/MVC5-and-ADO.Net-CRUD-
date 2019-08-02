@@ -62,7 +62,7 @@ namespace MVC5_and_ADO.NET.Repository
         public bool AddEmployee(Employee employee)
         {
             Connection();
-            SqlCommand sqlCommand = new SqlCommand("dbo.AddNewEmployeeDetail", con);
+            SqlCommand sqlCommand = new SqlCommand("dbo.AddNewEmpDetails", con);
             sqlCommand.CommandType = CommandType.StoredProcedure;
             sqlCommand.Parameters.AddWithValue("@Name", employee.Name);
             sqlCommand.Parameters.AddWithValue("@Address", employee.Address);

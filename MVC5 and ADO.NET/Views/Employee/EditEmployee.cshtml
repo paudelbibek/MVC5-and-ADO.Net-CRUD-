@@ -2,6 +2,7 @@
 
 @using (Html.BeginForm())
 {
+    @Html.AntiForgeryToken()
     <h4>Update Employee Details</h4>
     <hr />
     <div>
@@ -44,5 +45,8 @@
         </div>
     </div>
 }
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
 
 
