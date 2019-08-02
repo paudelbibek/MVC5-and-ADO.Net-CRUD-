@@ -1,0 +1,91 @@
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\ApplicationInsights.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\MVC5 and ADO.NET.dll.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\MVC5 and ADO.NET.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\MVC5 and ADO.NET.pdb
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csc.exe
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csc.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csc.rsp
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csi.exe
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csi.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\csi.rsp
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.AppContext.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Console.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\vbc.exe
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\vbc.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\vbc.rsp
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Antlr3.Runtime.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.Web.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Newtonsoft.Json.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Helpers.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Mvc.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Optimization.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\WebGrease.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Helpers.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Mvc.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Optimization.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Newtonsoft.Json.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Antlr3.Runtime.pdb
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.AI.Web.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\obj\Debug\MVC5 and ADO.NET.csprojAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\obj\Debug\MVC5 and ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\obj\Debug\MVC5 and ADO.NET.csproj.CopyComplete
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\obj\Debug\MVC5 and ADO.NET.dll
+C:\Users\Bibek\Documents\Visual Studio 2017\Projects\MVC5 and ADO.NET\MVC5 and ADO.NET\obj\Debug\MVC5 and ADO.NET.pdb

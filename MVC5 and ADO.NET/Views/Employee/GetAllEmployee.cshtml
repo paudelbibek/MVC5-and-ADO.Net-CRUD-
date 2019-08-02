@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MVC5_and_ADO.NET.Models.Employer>
+
+@{
+    ViewBag.Title = "GetAllEmployee";
+}
+
+<h2>GetAllEmployee</h2>
+
+<h2>Customers</h2>
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>City</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+
+    @foreach (var employer in Model)
+    {
+        <tr>
+            <td>
+                @employer.Name
+            </td>
+            <td>@employer.City</td>
+            <td>@employer.Address</td>
+        </tr>
+    }
+
+</table>
+
